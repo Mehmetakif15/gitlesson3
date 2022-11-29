@@ -2,5 +2,5 @@ coffee recipe:
 
 1.coffee
 2.water
-3.sugar
+3.a cup of sugar
 4.chocolate
