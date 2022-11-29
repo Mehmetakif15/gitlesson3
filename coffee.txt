@@ -1,6 +1,6 @@
 coffee recipe:
 
 1.a spon of coffee
-2.water
+2.a glass of water
 3.a cup of sugar
 4.chocolate
